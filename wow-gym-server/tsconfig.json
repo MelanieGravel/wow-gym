@@ -4,5 +4,10 @@
     "target": "es6",
     "rootDir": "./",
     "esModuleInterop": true
-  }
+  },
+  "include": [
+    "index.ts",
+    "client-test.ts",
+    "src/*"
+  ]
 }
