@@ -2,10 +2,10 @@
   "name": "wow-node-dispatch",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "serve": "nodemon index.ts",
-    "client": "node client-test.ts",
+    "start": "nodemon index.ts",
+    "client": "nodemon client-test.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
